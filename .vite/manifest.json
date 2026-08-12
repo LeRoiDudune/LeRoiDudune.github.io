@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/RecipeBook.tsx": {
-    "file": "assets/RecipeBook-Bb9WMdgH.js",
+    "file": "assets/RecipeBook-Bv5GjyBP.js",
     "name": "RecipeBook",
     "src": "app/RecipeBook.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "app/WikiShell.tsx": {
-    "file": "assets/WikiShell-BKBmzgO0.js",
+    "file": "assets/WikiShell-zNwxGlEl.js",
     "name": "WikiShell",
     "src": "app/WikiShell.tsx",
     "isDynamicEntry": true,
@@ -33,7 +33,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DtETq3UW.js",
+    "file": "assets/layout-segment-context-DASBfjwR.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -44,7 +44,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "assets/link-D75jhzLn.js",
+    "file": "assets/link-rZ0Orr2a.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-uWP-mFt3.js",
+    "file": "assets/router-DLXagp9m.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -73,7 +73,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-BP2BsLYj.js",
+    "file": "assets/index-DDTg_63C.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
