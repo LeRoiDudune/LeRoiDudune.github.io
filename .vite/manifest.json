@@ -21,7 +21,7 @@
     ]
   },
   "app/WikiShell.tsx": {
-    "file": "assets/WikiShell-zNwxGlEl.js",
+    "file": "assets/WikiShell-CaVDOTEA.js",
     "name": "WikiShell",
     "src": "app/WikiShell.tsx",
     "isDynamicEntry": true,
@@ -33,7 +33,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DASBfjwR.js",
+    "file": "assets/layout-segment-context-vxl0C3ma.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -44,7 +44,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "assets/link-rZ0Orr2a.js",
+    "file": "assets/link-Cqo1Lycv.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-DLXagp9m.js",
+    "file": "assets/router-CODxEYbD.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -73,7 +73,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-DDTg_63C.js",
+    "file": "assets/index-B9dnnW7l.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
