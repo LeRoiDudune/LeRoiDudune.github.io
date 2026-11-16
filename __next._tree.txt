@@ -16,4 +16,4 @@
 :HL["/media/wiki-postures-v2.png","image"]
 :HL["/media/wiki-commandes-2026.png","image"]
 :HL["/media/wiki-protections-performance.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"nMypEV8rBvysizbasfQOI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"REpHp0y5xmik6oUFC8v1P"}
